@@ -4,7 +4,7 @@
 
 #### 🔥 Expertizing in Blockchain architecture, DeFi trading Bot application development, Web3 Full Stack development, and microservices, I bring a wealth of experience and skills in code/no-code tech, ensuring the highest quality results and client satisfaction.
 
-#### 🎭 Technology?
+#### 🎭 Technology
 
 - Create EVM private chain from scratch for the specific payment systems based on cryptocurrency.
 - Integrate Blockchain techs into the business works, Ecommerce in particular.
@@ -16,7 +16,7 @@
 - MEV bot development, Jito in Solana
 - Data extraction & Backend logic implementation.
 
-#### 🎭 Skill Set ?
+#### 🎭 Skill Set
 
 - ✔ Blockchain DeFi:
   Solana, EVM Networks, Layer2 Chains, NFT Marketplace, Telegram Bot, Uniswap v2/v3, Smart Contract, MEV Bot, web3.js, Tokenomics, Signal Bots, Trading Bot (Sniper, Margin, Arbitrage, Sandwich)
